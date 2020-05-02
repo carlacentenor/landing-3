@@ -1,11 +1,11 @@
 # Landing Wave
-----------------------------
 
-:smile: En mi camino de seguir mejorando mis skills he realizado esta linda landing siguiendo el tutorial de  
+
+En mi camino de seguir mejorando mis skills he realizado esta linda landing siguiendo el tutorial de  
  [AlexCG Design](https://www.youtube.com/watch?v=HH_SMpxV7qQ) en youtube.
 
 
- >  :exclamation:Siempre es importante reconocer a sus maestros 
+ >  Siempre es importante reconocer a sus maestros  :exclamation:
 
 ## :bulb: Aprendizaje del día : 
 
@@ -31,7 +31,12 @@ Aquí encontraras herramientas para crear de manera rápida y fácil y además t
 
 
 ~~~
-  <div class="wave" style="height: 150px; overflow: hidden;"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.99 C287.25,161.94 349.20,-49.99 500.00,49.99 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #fff;"></path></svg></div>
+  <div class="wave" style="height: 150px; overflow: hidden;">
+    <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;">
+    <path d="M0.00,49.99 C287.25,161.94 349.20,-49.99 500.00,49.99 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #fff;">
+    </path>
+  </svg>
+  </div>
  ~~~
 
  ![Con titulo](https://user-images.githubusercontent.com/32285482/80853319-6d95be80-8bf5-11ea-97f3-0eb4ea911b00.PNG "Web")
@@ -71,3 +76,6 @@ Seguire en mi camino de mejorar cada día mis skills y enseñando lo que voy apr
 
 ### Landing
 ![Con titulo](https://user-images.githubusercontent.com/32285482/80852839-6b316580-8bf1-11ea-94a8-d9851bc687c0.png "Web")
+
+
+Nos vemos en una proxima carliaventura front :wink:
