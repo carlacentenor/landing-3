@@ -171,16 +171,16 @@ header .text-header {
     flex-direction: column;
 }
 
+.img-port:hover .hover-gallery {
+    transform: scale(1);
+}
+
 .hover-gallery img {
     width: 50px;
 }
 
 .hover-gallery p {
     color: white;
-}
-
-.img-port:hover .hover-gallery {
-    transform: scale(1);
 }
 
 
