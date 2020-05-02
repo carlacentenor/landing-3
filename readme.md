@@ -4,8 +4,8 @@
 :smile: En mi camino de seguir mejorando mis skills he realizado esta linda landing siguiendo el tutorial de  
  [AlexCG Design](https://www.youtube.com/watch?v=HH_SMpxV7qQ) en youtube.
 
-:exclamation:
- >  Siempre es importante reconocer a sus maestros 
+
+ >  :exclamation:Siempre es importante reconocer a sus maestros 
 
 ## :bulb: Aprendizaje del día : 
 
