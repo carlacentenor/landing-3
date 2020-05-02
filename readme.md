@@ -7,7 +7,7 @@
 :exclamation:
  >  Siempre es importante reconocer a sus maestros 
 
-## Aprendizaje del día : 
+## :bulb: Aprendizaje del día : 
 
 ### Header con efecto 
 
@@ -67,7 +67,7 @@ Utilizando  transform y transition pueden salir cosas asombrosas. Asi que a juga
 Ha sido muy interesante seguir este tutorial y aprender más cosas. 
 Seguire en mi camino de mejorar cada día mis skills y enseñando lo que voy aprendiendo.
 
-"Porque el que enseña aprende dos veces"
+:star:"Porque el que enseña aprende dos veces":star:
 
 ### Landing
 ![Con titulo](https://user-images.githubusercontent.com/32285482/80852839-6b316580-8bf1-11ea-94a8-d9851bc687c0.png "Web")
